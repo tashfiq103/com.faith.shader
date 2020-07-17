@@ -1,0 +1,16 @@
+{
+    "name" : "com.faith.shader",
+    "displayName": "FAITH Shader",
+    "version" : "0.1.0",
+    "unity": "2019.4",
+    "author": "Muhammad Tashfiqul Bari",
+    "description": "Custom shader using ShaderGraph",
+    "dependencies":{
+
+    },
+    "repository":{
+        "type":"git",
+        "url": "https://github.com/tashfiq103/com.faith.shader.git"
+    }
+    
+}
